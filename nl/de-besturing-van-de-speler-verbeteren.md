@@ -6,5 +6,9 @@ De LEDs op de Micro:bit hebben allemaal een eigen waarde. Hieronder zie je hoe d
 
 Je kunt ervoor zorgen dat de speler niet verdwijnt door ervoor te zorgen dat de waarden van de variable `speler`\`niet te groot \(meer dan 4 als je naar rechts gaat\) of te klein wordt \(minder dan 0 als je naar links gaat\).
 
+![](/assets/block_links_rechts)
+
+We willen ook dat als het spel start, de speler in het midden staat. We kunnen ervoor zorgen dat het spel gereset en opnieuw gestart wordt als de knoppen A en B tegelijkertijd worden ingedrukt.
+
 
 
