@@ -6,4 +6,5 @@
 * [De besturing van de speler verbeteren](de-besturing-van-de-speler-verbeteren.md)
 * [Vallende meteorieten](vallende-meteoren.md)
 * [Is de speler geraakt?](is-de-speler-geraakt.md)
+* [Doorgaan tot de speler is geraakt](doorgaan-tot-de-speler-is-geraakt.md)
 
