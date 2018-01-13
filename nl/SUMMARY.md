@@ -7,4 +7,6 @@
 * [Vallende meteorieten](vallende-meteoren.md)
 * [Is de speler geraakt?](is-de-speler-geraakt.md)
 * [Doorgaan tot de speler is geraakt](doorgaan-tot-de-speler-is-geraakt.md)
+* [Uitdaging 1: Score bijhouden](uitdaging-1-score-bijhouden-5-min-beginners.md)
+* [Uitdaging 2: Maak het spel moeilijker bij een hogere score](uitdaging-2-maak-het-spel-moeilijker-bij-een-hogere-score.md)
 
