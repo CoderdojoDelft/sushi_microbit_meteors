@@ -12,5 +12,7 @@ We willen ook dat als het spel start, de speler in het midden staat. We kunnen e
 
 ![](/assets/restart_spel)
 
+Test of de speler nu niet meer verdwijnt en herstart het spel.
 
+Als je tevreden bent, kun je de code uploaden naar de Micro:bit.
 
