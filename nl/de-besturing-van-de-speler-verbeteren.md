@@ -10,5 +10,7 @@ Je kunt ervoor zorgen dat de speler niet verdwijnt door ervoor te zorgen dat de 
 
 We willen ook dat als het spel start, de speler in het midden staat. We kunnen ervoor zorgen dat het spel gereset en opnieuw gestart wordt als de knoppen A en B tegelijkertijd worden ingedrukt.
 
+![](/assets/restart_spel)
+
 
 
