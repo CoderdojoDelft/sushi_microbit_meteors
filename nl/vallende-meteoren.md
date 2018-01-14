@@ -6,5 +6,5 @@ Die beginnen op een willekeurige positie op de bovenste rij van het raster en va
 
 Voeg de volgende code toe aan het event dat hoort bij het indrukken van de knoppen A+B tegelijkertijd.
 
-![](/assets/vallende_meteoriet.png)
+![](../assets/vallende_meteoriet.png)
 
