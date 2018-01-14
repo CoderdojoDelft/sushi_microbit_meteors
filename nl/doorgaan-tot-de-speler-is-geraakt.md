@@ -4,5 +4,5 @@ We zijn nu bijna klaar! We willen er nu voor zorgen dat de speler door kan spele
 
 En nu gaan we er tenslotte voor zorgen dat de speler niet meer kan bewegen als het GAME OVER is.
 
-![](/assets/niet_meer_bewegen.png)
+![](/assets/block_links_rechts_2.png)
 
