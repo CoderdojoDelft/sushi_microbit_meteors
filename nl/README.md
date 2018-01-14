@@ -15,5 +15,5 @@ De eerste keer dat je op deze website komt, is hij misschien in het Engels. Dit 
 
 Nu zijn we klaar om te beginnen. 
 
-![](/assets/MicroBit - startscherm.png)
+![](../assets/MicroBit - startscherm.png)
 
