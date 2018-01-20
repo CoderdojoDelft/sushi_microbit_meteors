@@ -1,6 +1,6 @@
 Zorg eerst dat je je spel een goede naam geeft, bijvoorbeeld 'microbit-meteor-game' en druk op op het `save` icoon
 
-![](/assets/name_your_game.png)
+![](../assets/name_your_game.png)
 
 Druk op de knop `Downloaden`. Na een paar seconden zie je:
 
@@ -12,11 +12,11 @@ Als je de microbit op je computer aansluit, dan zie je dat er een extra disk aan
 
 Op een windows computer:
 
-![](/assets/windows_microbit_disk.png)
+![](../assets/windows_microbit_disk.png)
 
 Op een apple computer:
 
-![](/assets/apple_microbit_disk.png)
+![](../assets/apple_microbit_disk.png)
 
 Je kan de code op je microbit zetten door het .`hex` bestand te slepen naar de microbit disk. Het oranje ledje van de microbit gaat ongeveer 20 seconden knipperen. Als hij stop is je programma op de microbit geladen.
 
