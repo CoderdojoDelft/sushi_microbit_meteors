@@ -1,11 +1,5 @@
 {
     "plugins": ["theme-coderdojosushicard"],
-    "pdf": {
-        "margin": {
-            "left": 100,
-            "right": 100
-        }
-    },
     "variables": {
         "seriesSubject": "Game Design"
     }
